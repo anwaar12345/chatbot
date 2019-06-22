@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cbd2dac2-22f0-4905-b235-b76ab66e1cb0",
+    "data": [
+      {
+        "text": "is it co education?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c9bdf47-6e8e-45ac-8b1b-541d10fc1ca6",
+    "data": [
+      {
+        "text": "is it co ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f49e7dc9-ae52-4ea0-bb3b-b7e51295d985",
+    "data": [
+      {
+        "text": "are classes are seperate for boys and girls?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

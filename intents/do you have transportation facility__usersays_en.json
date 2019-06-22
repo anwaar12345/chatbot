@@ -1,0 +1,38 @@
+[
+  {
+    "id": "92d7e808-ce90-43c6-8ed1-330994bb0705",
+    "data": [
+      {
+        "text": "do you have transportation facility?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df64dc15-2c81-4d22-bf2f-968ced5b0830",
+    "data": [
+      {
+        "text": "is van service available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9a13687-f904-44ce-8288-adad9cef2bb3",
+    "data": [
+      {
+        "text": "Do you provide pick and drop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

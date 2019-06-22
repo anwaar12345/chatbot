@@ -1,0 +1,37 @@
+{
+  "id": "7c8dcd10-bfae-47b5-aff8-ff1c7536a4cf",
+  "name": "how to get there?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "we are located at pechs block 6 near mohammad ali jinnah university .",
+            "address is block 6 pechs near MAJU"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "address"
+    },
+    {
+      "name": "location"
+    }
+  ]
+}

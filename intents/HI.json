@@ -1,0 +1,31 @@
+{
+  "id": "4d268b95-e262-4168-a1c5-731748ab991c",
+  "name": "HI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Welcome Sir how may i Help you? how Are you?",
+            "welcome! How may i help you sir? how Are you?",
+            "hi !how Are you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

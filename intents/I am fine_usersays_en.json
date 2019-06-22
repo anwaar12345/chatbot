@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a47c5cf7-2fd4-4f4d-a1e7-19d391213576",
+    "data": [
+      {
+        "text": "I am fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "360f91ce-6c81-485a-957d-8078f095dafd",
+    "data": [
+      {
+        "text": "I am absolutely right!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

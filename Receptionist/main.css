@@ -1,0 +1,28 @@
+
+body{
+    background-color: skyblue;
+}
+
+#jumbotron{
+    background-color: skyblue;
+    color: #2b313f;
+    font-style: italic;
+}
+div p label{
+    font-style: italic;
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+
+div p{
+    font-style: italic;
+    font-size: 20px;
+    line-height: 40px;
+    margin: 0 auto;
+    width: 100%;
+}
+iframe{
+    margin-top: 50px;
+    border-color:black;
+}

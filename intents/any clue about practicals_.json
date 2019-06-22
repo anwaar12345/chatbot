@@ -1,0 +1,31 @@
+{
+  "id": "9a02f52c-ef2f-41c9-9fed-0285898dd427",
+  "name": "any clue about practicals?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "we also teach practicals! but we charge separately for practicals!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "practicals"
+    }
+  ]
+}

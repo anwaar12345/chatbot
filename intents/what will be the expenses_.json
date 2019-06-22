@@ -1,0 +1,31 @@
+{
+  "id": "e626aba8-8ac3-47ae-a886-a012e3eadf9e",
+  "name": "what will be the expenses?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "our fee is 3000 per month :) and scholarships are also available!",
+            "our fee is 3000 per month and we give scholarships to good students.",
+            "our fee is very economical 3000 per month also we provide scholorships"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

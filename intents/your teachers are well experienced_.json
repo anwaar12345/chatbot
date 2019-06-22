@@ -1,0 +1,40 @@
+{
+  "id": "26cbefad-4aac-410e-a439-431280a342a2",
+  "name": "your teachers are well experienced?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "we have professional and highly qualified teachers including Engineers,Doctors,Computer Scientist and Managament and finance and Commerce professionals.",
+            "we have qualified teachers !"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "teachers"
+    },
+    {
+      "name": "faculity"
+    },
+    {
+      "name": "qualified"
+    }
+  ]
+}

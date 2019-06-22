@@ -1,0 +1,62 @@
+[
+  {
+    "id": "018abf90-fa57-43c5-839c-50955a415137",
+    "data": [
+      {
+        "text": "how to get there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54b3316c-17da-4710-9d49-03fdc6d9019f",
+    "data": [
+      {
+        "text": "guide me about your address please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad1b7da1-30e6-4b56-a6b8-3ff3f1f3f817",
+    "data": [
+      {
+        "text": "where is your coaching center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a206ed-d614-43fc-afc6-010531d0fdb4",
+    "data": [
+      {
+        "text": "where is the institue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f5452b4-68d3-4366-b959-24b0c8310621",
+    "data": [
+      {
+        "text": "where are you located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

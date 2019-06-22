@@ -1,0 +1,37 @@
+{
+  "id": "13135269-e86c-4a8d-a53b-9be370d9fcb8",
+  "name": "is it co education?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "we provide safe environment to girls.and have separate classes for girls and boys.",
+            "we have Separate timing for Boys And Girls."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "environment"
+    },
+    {
+      "name": "type"
+    }
+  ]
+}

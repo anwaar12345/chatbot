@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8d38b5c0-9fae-4dc2-bddf-86de087129ee",
+    "data": [
+      {
+        "text": "what will be the expenses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f814553a-0636-430b-a2b9-f58a3ee64fe2",
+    "data": [
+      {
+        "text": "how much i need to pay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adcf13ee-69b4-49b6-b6ff-a757e7570cde",
+    "data": [
+      {
+        "text": "tell me about your fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bbed582-0058-4ecc-8b8e-38f7efc0293c",
+    "data": [
+      {
+        "text": "how much is your fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

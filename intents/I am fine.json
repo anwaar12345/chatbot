@@ -1,0 +1,31 @@
+{
+  "id": "95f07b9b-b3c7-4e1b-9e09-ec0093e8b985",
+  "name": "I am fine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "glad to hear sir",
+            "nice to hear Sir",
+            "nice what can i do for you"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

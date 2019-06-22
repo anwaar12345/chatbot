@@ -1,0 +1,38 @@
+{
+  "id": "df2cbccf-24bf-451a-9165-88d20bbe08b4",
+  "name": "do you have transportation facility?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "yes We also provide transport facility",
+            "we have pick and drop service available",
+            "no need to worry we provide pick and drop"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "transportation"
+    },
+    {
+      "name": "pick"
+    }
+  ]
+}

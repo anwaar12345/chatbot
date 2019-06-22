@@ -1,0 +1,38 @@
+{
+  "id": "a1bd0fc0-d037-4cba-a078-b88202b7acf7",
+  "name": "schedule",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "classes are available from 10:00 am to 10:00 pm in night.",
+            "we are available 12 hours and 7 days a week from 10:00 am to  10:00 pm.",
+            "we have 12 working hrs from 10:00 am to  10:00 pm."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "timing"
+    },
+    {
+      "name": "schedule"
+    }
+  ]
+}
